@@ -9,7 +9,7 @@ Challenge:
 
 1. Navigate to http://ties-software.github.io/QA/CodeChallenge/AddBalance.html
 
-2. Add some money to the student named "Low Balance".
+2. Add some money to the student named "Low Balance". (ID #62)
 
 3. Verify that the correct amount was added to the account.
 
